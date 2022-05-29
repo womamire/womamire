@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @womamire
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Fintech
 - 📫 How to reach me ...
 
